@@ -7,6 +7,7 @@ class BookmarksScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text('Bookmarks Screen'),
+      // 
     );
   }
 }
